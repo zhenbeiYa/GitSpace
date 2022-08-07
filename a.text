@@ -3,3 +3,4 @@ shell git hello
 shell git dev hello
 dev shell git hello
 github hello
+ssh github hello
